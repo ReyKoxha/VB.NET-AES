@@ -1,0 +1,12 @@
+C:\Users\Rey\source\repos\Encryptor\Encryptor\bin\Release\Encryptor.exe.config
+C:\Users\Rey\source\repos\Encryptor\Encryptor\bin\Release\Encryptor.exe
+C:\Users\Rey\source\repos\Encryptor\Encryptor\bin\Release\Encryptor.pdb
+C:\Users\Rey\source\repos\Encryptor\Encryptor\bin\Release\Encryptor.xml
+C:\Users\Rey\source\repos\Encryptor\Encryptor\obj\Release\Encryptor.Form1.resources
+C:\Users\Rey\source\repos\Encryptor\Encryptor\obj\Release\Encryptor.Resources.resources
+C:\Users\Rey\source\repos\Encryptor\Encryptor\obj\Release\Encryptor.vbproj.GenerateResource.cache
+C:\Users\Rey\source\repos\Encryptor\Encryptor\obj\Release\Encryptor.vbproj.CoreCompileInputs.cache
+C:\Users\Rey\source\repos\Encryptor\Encryptor\obj\Release\Encryptor.exe
+C:\Users\Rey\source\repos\Encryptor\Encryptor\obj\Release\Encryptor.xml
+C:\Users\Rey\source\repos\Encryptor\Encryptor\obj\Release\Encryptor.pdb
+C:\Users\Rey\source\repos\Encryptor\Encryptor\obj\Release\Encryptor.vbprojAssemblyReference.cache
